@@ -66,7 +66,7 @@
             <url>http://localhost:8081/repository/maven-hosted-demo/</url>
         </repository>
         <snapshotRepository>
-            <id>local-nexus</id>
+            <id>maven-hosted-demo</id>
             <layout>default</layout>
             <url>http://localhost:8081/repository/maven-hosted-demo/</url>
         </snapshotRepository>

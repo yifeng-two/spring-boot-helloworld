@@ -109,4 +109,3 @@ server:
     context-path: /demo
 ```
 
-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

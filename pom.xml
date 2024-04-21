@@ -62,7 +62,7 @@
         </plugins>
     </build>
 
-    <distributionManagement>
+<!--     <distributionManagement>
         <snapshotRepository>
             <id>maven-hosted-demo</id>
             <name>maven-hosted-demo</name>
@@ -73,6 +73,6 @@
             <name>maven-hosted-demo</name>
             <url>http://localhost:8081/repository/maven-hosted-demo</url>
         </repository>
-    </distributionManagement>
+    </distributionManagement> -->
 
 </project>
